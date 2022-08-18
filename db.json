@@ -1,0 +1,9 @@
+{
+    "product":[
+       { "name":"Himanshu",
+         "age":25}
+    ],
+    "user":[
+        {"name":"Mukesh","age":27}
+    ]
+}
