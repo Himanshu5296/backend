@@ -1,6 +1,11 @@
 {
-    "employees":[
-       { "name":"Himanshu",
-         "age":25}
-    ]
+    "users":[
+    {
+      "id":1,
+      "name":"Himanshu",
+      "email":"himanshu@gmail.com",
+      "password":12345
+    }
+  ],
+    "data":[]
 }
